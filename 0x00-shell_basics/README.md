@@ -56,5 +56,5 @@ Title 18: Life is a series of commas, not periods
 Script function: L lists all the files and directories of the current directory, separated by commas (,).
 
 Title 19: File Type School
-Script Function: Used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+File Function: Used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
 
